@@ -50,7 +50,7 @@ NOTE: The BACKUP\_DIR setting is preset to /backups/site-backups. If you want to
 
 ## Web Site Settings:
 
-* __SITES\_DIR__: This is the directory where you keep all of your web sites. It's preset to: `"/var/www/sites/"`
+* __SITES\_DIR__: This is the directory where you keep all of your web sites. It's preset to: `"/var/www/html/sites/"`
 * __SITES\_BACKUP\_DIR__: The directory in which the archived site files will be placed. It's preset to: `"$BACKUP_DIR/sites/"`
 
 ## S3sync Settings (recommended):
