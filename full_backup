@@ -14,7 +14,7 @@ MYSQL_USER="root"
 MYSQL_PASS=""
 MYSQL_BACKUP_DIR="$BACKUP_DIR/mysql/"
 
-SITES_DIR="/var/www/sites/"
+SITES_DIR="/var/www/html/sites/"
 SITES_BACKUP_DIR="$BACKUP_DIR/sites/"
 
 
